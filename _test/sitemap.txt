@@ -1,0 +1,16 @@
+What is this site for?
+- Blog
+- Portfolio
+- Resume
+
+Homepage
+- About me
+- Portfolio
+Blog
+Resume
+
+Why am I doing this?
+- Outlet for ideas
+- Looking at what I've done and being okay with it
+- Showcasing what I can do
+- Getting practice in web dev and seeing if there is any interest there
