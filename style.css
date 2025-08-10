@@ -1,3 +1,32 @@
 body {
     padding: 0 100px;
+    font-family: 'Anonymous Pro','Courier New', Courier, monospace;
+}
+
+p {
+    max-width: 800px; /* Fits 90 char */
+}
+
+.anonymous-pro-regular {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.anonymous-pro-bold {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.anonymous-pro-regular-italic {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.anonymous-pro-bold-italic {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 700;
+  font-style: italic;
 }
