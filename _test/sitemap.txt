@@ -6,7 +6,10 @@ What is this site for?
 Homepage
 - About me
 - Portfolio
+
 Blog
+- blogs
+
 Resume
 
 Why am I doing this?
