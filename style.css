@@ -8,7 +8,7 @@ body {
     font-family: 'Anonymous Pro','Courier New', Courier, monospace;
 }
 
-p {
+.main-content p {
     max-width: 800px; /* Fits 90 char */
 }
 
@@ -34,4 +34,17 @@ p {
   font-family: "Anonymous Pro", monospace;
   font-weight: 700;
   font-style: italic;
+}
+
+/* Portfolio */
+.portfolio {
+  /* clear: both; */
+}
+.portfolio-card {
+  max-width: 300px;
+  /* float: left; */
+}
+.portfolio-card-img {}
+.portfolio-card-img img {
+  width: 100%;
 }
